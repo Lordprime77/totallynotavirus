@@ -1667,3 +1667,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.25-20.33.57:380][252]LogSavePackage: Moving 'C:/Users/court/Documents/Github/totallynotavirus/Saved/EAHCBN229IT8APJO305AH5FDCFB7F0450D71CF203ADD8C275182DB.tmp' to 'C:/Users/court/Documents/Github/totallynotavirus/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
 [2022.06.25-20.33.57:439][252]AssetCheck: New page: Asset Save: BP_Rifle_C_1
 [2022.06.25-20.33.57:478][252]LogContentValidation: Display: Validating BP_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
+[2022.06.25-20.36.40:052][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.06.25-20.36.40:059][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.041
+[2022.06.25-20.36.40:060][766]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Rifle] ([2] browsable assets)...
+[2022.06.25-20.36.40:085][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle]
+[2022.06.25-20.36.40:085][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Rifle]
+[2022.06.25-20.36.40:341][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto1
+[2022.06.25-20.36.40:342][766]LogSavePackage: Moving 'C:/Users/court/Documents/Github/totallynotavirus/Saved/BP_Rifle_Auto1A971E5834BC64C440753FEAC56CDE69E.tmp' to 'C:/Users/court/Documents/Github/totallynotavirus/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto1.uasset'
+[2022.06.25-20.36.40:343][766]LogFileHelpers: Auto-saving content packages took 0.284
+[2022.06.25-20.44.10:119][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Rifle" FILE="C:/Users/court/Documents/Github/totallynotavirus/Content/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.06.25-20.44.10:141][201]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Rifle
+[2022.06.25-20.44.10:142][201]LogSavePackage: Moving 'C:/Users/court/Documents/Github/totallynotavirus/Saved/BP_Rifle6E31E54E4C444C791CC2799D9303D891.tmp' to 'C:/Users/court/Documents/Github/totallynotavirus/Content/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.06.25-20.44.10:161][201]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.06.25-20.44.10:161][201]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.06.25-20.44.17:325][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
